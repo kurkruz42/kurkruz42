@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Kur
+- 👋 Hi, I’m Nwaji Clinton
 
-- 👀 I’m interested in Web Development
+- 👀 I’m a Data Analyst
 
-- 🌱 I’m currently learning Python
 
-- 💞️ I’m looking to collaborate on web development projects 
+- 💞️ I’m looking to collaborate on data analytical projects 
 
 - 📫 How to reach me via email @kurkruz42@gmail.com
 
